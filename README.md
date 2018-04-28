@@ -1,1 +1,1 @@
-# project1_DSP
+#Karaoke basado en FFT - DSP - Uniquindío - 2018
